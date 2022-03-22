@@ -1,6 +1,3 @@
----
-layout: editorial
----
 
 # 🔗 Cen
 
