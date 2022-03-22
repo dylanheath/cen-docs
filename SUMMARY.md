@@ -7,4 +7,4 @@
 
 * [⚙ API Reference](reference/api-reference/README.md)
   * [💳 Transactions](reference/api-reference/transactions.md)
-  * [🧍♂ Users](reference/api-reference/users.md)
+  * [🧑🤝🧑 Users](reference/api-reference/users.md)
